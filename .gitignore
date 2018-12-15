@@ -1,4 +1,4 @@
 #Project
 pkg/
 bin/
-props/vars.yml
+src/props/vars.yml
